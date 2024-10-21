@@ -7,10 +7,6 @@ This project demonstrates a basic image classification model using the CIFAR-10 
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Results](#results)
-- [Notes](#notes)
-- [License](#license)
 
 ## Introduction
 In this project, you will design and train your first neural network for image classification using the CIFAR-10 dataset. The model is implemented with TensorFlow's high-level API `tf.keras` and executed in the Google Colab environment. 
